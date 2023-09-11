@@ -6,6 +6,7 @@ Landing page com a temática de pizzaria <br>
 ## ⚙ Funcionalidades 
 - Página linda e bem construída. <br><br>
 
+<img src="https://i.imgur.com/o5l6UmA.png" width="600px" />
 
 ## 🖥️ Tecnologias utilizadas:<br>
 ###
@@ -22,4 +23,4 @@ Landing page com a temática de pizzaria <br>
 
 ###
 
-**Link do site:** <i>[clique aqui]() 
+**Link do site:** <i>[clique aqui](https://lilian-carvalho25.github.io/landing-pizza/) 
